@@ -13,7 +13,7 @@ const Footer = () => {
     <footer className="w-screen bg-[#5542ff] py-10 text-black">
       <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-10 md:flex-row">
         <p className="text-center text-sm font-light md:text-left text-2xl">
-          ©Nova 2024. All rights reserved
+          ©Nova 2024. All rights reserve
         </p>
 
         <div className="flex justify-center gap-10  md:justify-start">
